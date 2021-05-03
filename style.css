@@ -5,6 +5,7 @@
 }
 #whole{
     font-family:digital-7 mono;
+    src:url(digital-7__mono_.ttf);
    font-size: 3rem;
    border: 4px solid #08f7f7 ;
    border-radius: 1rem;
